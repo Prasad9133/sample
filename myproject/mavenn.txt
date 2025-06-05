@@ -1,0 +1,153 @@
+What is Maven primarily used for?
+
+A) Web development
+B) Project management
+C) Dependency management
+D) Database management
+Answer: C) Dependency management
+
+Question 2
+Which file is used to define the project configuration in Maven?
+
+A) build.xml
+B) pom.xml
+C) settings.xml
+D) project.xml
+Answer: B) pom.xml
+
+Question 3
+What is the default scope for dependencies in Maven?
+
+A) Provided
+B) Compile
+C) Runtime
+D) Test
+Answer: B) Compile
+
+Question 4
+Which Maven command is used to compile the project?
+
+A) mvn build
+B) mvn compile
+C) mvn package
+D) mvn install
+Answer: B) mvn compile
+
+Question 5
+What is the purpose of the mvn clean command?
+
+A) To compile the project
+B) To remove the target directory
+C) To install dependencies
+D) To run tests
+Answer: B) To remove the target directory
+
+If you need more questions or have any other topic in mind, feel free to ask!
+
+
+
+
+
+
+
+You said:
+
+Generate questions on Maven plugins.
+Copilot said:
+Copilot
+Sure! Here are some questions on Maven plugins:
+
+Question 1
+What is the purpose of Maven plugins?
+
+A) To manage project dependencies
+B) To extend the functionality of Maven
+C) To define project structure
+D) To compile Java code
+Question 2
+Which plugin is used to compile Java source files in Maven?
+
+A) maven-compiler-plugin
+B) maven-jar-plugin
+C) maven-war-plugin
+D) maven-clean-plugin
+Question 3
+How do you specify a plugin in the pom.xml file?
+
+A) <pluginManagement>
+B) <plugin>
+C) <dependency>
+D) <build>
+Question 4
+Which Maven plugin is used to create a JAR file?
+
+A) maven-compiler-plugin
+B) maven-jar-plugin
+C) maven-war-plugin
+D) maven-install-plugin
+Question 5
+What is the role of the maven-surefire-plugin?
+
+A) To compile Java code
+B) To run unit tests
+C) To package the project
+D) To clean the project
+Would you like the answers to these questions as well?
+
+
+
+
+
+
+
+You said:
+
+Yes, please provide the answers.
+Copilot said:
+Copilot
+Sure! Here are the questions on Maven plugins along with their answers:
+
+Question 1
+What is the purpose of Maven plugins?
+
+A) To manage project dependencies
+B) To extend the functionality of Maven
+C) To define project structure
+D) To compile Java code
+Answer: B) To extend the functionality of Maven
+
+Question 2
+Which plugin is used to compile Java source files in Maven?
+
+A) maven-compiler-plugin
+B) maven-jar-plugin
+C) maven-war-plugin
+D) maven-clean-plugin
+Answer: A) maven-compiler-plugin
+
+Question 3
+How do you specify a plugin in the pom.xml file?
+
+A) <pluginManagement>
+B) <plugin>
+C) <dependency>
+D) <build>
+Answer: B) <plugin>
+
+Question 4
+Which Maven plugin is used to create a JAR file?
+
+A) maven-compiler-plugin
+B) maven-jar-plugin
+C) maven-war-plugin
+D) maven-install-plugin
+Answer: B) maven-jar-plugin
+
+Question 5
+What is the role of the maven-surefire-plugin?
+
+A) To compile Java code
+B) To run unit tests
+C) To package the project
+D) To clean the project
+Answer: B) To run unit tests
